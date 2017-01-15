@@ -1,5 +1,5 @@
 # brAthena-completions
-Plugin auto-complete com funções, constantes, mapas, etc. para Sublime Text
+Plugin auto-complete com funções, constantes, mapas, etc. para Sublime Text 3<br />
 Auxilia no desenvolvimento de Npcs Ragnarok
 
 # Download do Sublime
