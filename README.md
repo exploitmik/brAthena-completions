@@ -9,7 +9,7 @@ https://www.sublimetext.com/3
 Tanto quanto no Windows, Linux ou Mac, o arquivo deve ficar dentro da pasta User
 
 ## Como usar
-Certifique-se que o auto-complete esteja na pasta User que está na raiz do Sublime. No canto inferior direito tem a opção de selecionar a linguagem do arquivo, selecione a linguagem: C e pronto.
+Certifique-se que o auto-complete esteja na pasta User que está na raiz do Sublime. No canto inferior direito tem a opção de selecionar a linguagem do arquivo ou Ctrl+Shift+P e selecione a linguagem: C e pronto.
 
 <br />
 ## Creative Commons
