@@ -1,14 +1,14 @@
-# brAthena-completions
+## brAthena-completions
 Plugin auto-complete com funções, constantes, mapas, etc. para Sublime Text 3<br />
 Auxilia no desenvolvimento de Npcs Ragnarok
 
-# Download do Sublime
+## Download do Sublime
 https://www.sublimetext.com/3
 
-# Implementação
+## Implementação
 Tanto quanto no Windows, Linux ou Mac, o arquivo deve ficar dentro da pasta User
 
-# Como usar
+## Como usar
 Certifique-se que o auto-complete esteja na pasta User que está na raiz do Sublime. No canto inferior direito tem a opção de selecionar a linguagem do arquivo, selecione a linguagem: C e pronto.
 
 <br />
