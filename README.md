@@ -2,6 +2,9 @@
 Plugin auto-complete com funções, constantes, mapas, etc. para Sublime Text 3 usando o escôpo de C<br />
 Auxilia no desenvolvimento de Npcs Ragnarok
 
+![alt tag](http://i.imgur.com/MLVvHN5.png)
+![alt tag](http://i.imgur.com/XbW5eR2.png)
+
 ## Download do Sublime
 https://www.sublimetext.com/3
 
