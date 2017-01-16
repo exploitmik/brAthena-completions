@@ -15,7 +15,7 @@ Path: AppData\Roaming\Sublime Text 3\Packages\User
 ### Linux
 Path: ~/.config/sublime-text-3/Packages/User/
 
-![alt tag](http://i.imgur.com/vtmXcpr.png)
+![alt tag](http://i.imgur.com/MK0v5AT.png)
 ![alt tag](http://i.imgur.com/NviFOkk.png)
 
 ## Como usar
