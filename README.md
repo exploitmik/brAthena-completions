@@ -9,10 +9,18 @@ Auxilia no desenvolvimento de Npcs Ragnarok
 https://www.sublimetext.com/3
 
 ## Implementação
-Tanto quanto no Windows, Linux ou Mac, o arquivo deve ficar dentro da pasta User
+### Windows:
+Path: AppData\Roaming\Sublime Text 3\Packages\User
+
+### Linux
+Path: ~/.config/sublime-text-3/Packages/User/
+
+![alt tag](http://i.imgur.com/vtmXcpr.png)
+![alt tag](http://i.imgur.com/NviFOkk.png)
 
 ## Como usar
-Certifique-se que o auto-complete esteja na pasta User que está na raiz do Sublime. No canto inferior direito tem a opção de selecionar a linguagem do arquivo ou Ctrl+Shift+P e selecione a linguagem: C e pronto.
+No canto inferior direito tem uma opção de selecionar a linguagem do arquivo ou Ctrl+Shift+P e selecione a linguagem: C
+![alt tag](http://i.imgur.com/gXlgj7k.png)
 
 <br />
 ## Creative Commons
