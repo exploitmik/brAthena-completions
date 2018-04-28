@@ -1,4 +1,4 @@
-#AINDA EM DESENVOLVIMENTO
+###DESCONTINUADO
 
 ## brAthena-completions
 Plugin auto-complete com funções, constantes, mapas, etc. para Sublime Text 3 usando o escôpo de C<br />
